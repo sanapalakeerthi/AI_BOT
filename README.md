@@ -1,1 +1,1 @@
-this ia an ai bot
+This ia an AI Bot
